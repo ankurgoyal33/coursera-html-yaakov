@@ -3,50 +3,50 @@
   font-family: Georgia, Times, serif;
 }
 
-h1 {
-    text-align: center;
-    margin-bottom: 50px;
-    font-size: 300%;
+#h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 175%;
 }
 
 .details {
-    border: 1px solid black;
-    background-color: #927373;
-    width: 100%;
-    height: 300px;
-    font-family: Helvetica;
-    color: white;
-    clear: right;
-  }
+  border: 1px solid black;
+  background-color: #927373;
+  width: 100%;
+  height: 300px;
+  font-family: Helvetica;
+  color: white;
+  clear: right;
+}
   
 .title {
-    border: 1px solid black;
-    margin-top: 0px;
-    text-align: center;
-    padding: 5px;
-    float: right;
-    width: 80px;
-    font-size: 125%;
+  border: 1px solid black;
+  margin-top: 0px;
+  text-align: center;
+  padding: 5px;
+  float: right;
+  width: 80px;
+  font-size: 125%;
 }
 
 .desc {
-    padding: 10px;
-    clear: right;
-  }
+  padding: 10px;
+  clear: right;
+}
 
 #item1 {
-    background-color: #898f88;
-    color: black;
+  background-color: #898f88;
+  color: black;
 }
 
 #item2 {
-    background-color: #e20c3a;
-    color: white;
+  background-color: #e20c3a;
+  color: white;
 }
 
 #item3 {
-    background-color: #bed8b9;
-    color: black;
+  background-color: #bed8b9;
+  color: black;
 }
 
 /********** Large devices only **********/
